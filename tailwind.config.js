@@ -11,8 +11,8 @@ module.exports = {
   darkMode: false,
   theme: {
     fontFamily: {
-      display: ['Lato, sans-serif'],
-      body: ['Lato, sans-serif'],
+      display: ['Relative Mono, Monotype.com, monospace'],
+      body: ['Relative Mono, Monotype.com, monospace'],
     },
     extend: {
       cursor: {
@@ -69,10 +69,10 @@ module.exports = {
             dark: '#91B503',
           },
           orange: { DEFAULT: '#FF9C24' },
-          'bkg-1': '#141026',
-          'bkg-2': '#1D1832',
-          'bkg-3': '#2A2440',
-          'bkg-4': '#37324D',
+          'bkg-1': '#1D1C27',
+          'bkg-2': '#1D1C27',
+          'bkg-3': '#1D1C27',
+          'bkg-4': '#1D1C27',
           'fgd-1': '#F0EDFF',
           'fgd-2': '#FCFCFF',
           'fgd-3': '#B9B5CE',
